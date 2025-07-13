@@ -6,8 +6,28 @@
 ## Task -1
  Completed a job simulation involving development and coding
  
- 
- Sample workspace of my work in this job simulation
+
+# Goal:
+Write a Python program that converts machine telemetry data from two different formats into a single, unified format suitable for displaying on a dashboard.
+
+
+This is useful for integrating systems where data sources vary, but you need one consistent format to feed into monitoring tools or dashboards.
+
+
+# ✅ Example Use Case
+
+Imagine you're building a dashboard for a company like Daikibo that monitors machines across multiple factories:
+
+Some older systems export data in ISO format.
+
+Some newer ones use epoch timestamps.
+
+The dashboard backend needs one consistent format to work reliably.
+
+Your Task 1 solution is the data normalization layer that prepares this data — a common requirement in real-world software engineering and system integration.
+
+
+# Sample workspace of my work in this job simulation
 
 
 

@@ -56,7 +56,9 @@ In Task 1, I demonstrated practical skills in handling and transforming structur
  In Task 2, I authored a formal software development proposal for an internal dashboard solution intended for Daikibo’s machine telemetry monitoring system. The document outlines the architecture and delivery plan for a secure, intranet-based dashboard that displays real-time and historical health status of 9 machines across 4 factories. The solution includes collapsible and expandable views at both the factory and device level, and integrates with the company’s internal authentication server to support Single Sign-On (SSO) using existing enterprise credentials. The proposal clearly defines the project scope, covering key functionalities such as real-time telemetry visualization, authenticated access, responsive UI design, and structured device data handling. It also includes a detailed estimate of total development effort (140 man-hours), broken down into design, development, testing, and deployment phases. A milestone-based timeline and post-deployment support strategy were also documented, ensuring maintainability and long-term usability. This task reflects strong skills in requirements analysis, solution planning, stakeholder communication, and technical documentation — all essential in client-facing software engineering roles.
 
 
- task-Software Proposed solution.docx : GO THROUGH THIS FILE FOR MY PROPOSAL
+ ## GO THROUGH THIS FILE FOR MY PROPOSAL  
+ 
+  task-Software Proposed solution.docx 
 
  
 

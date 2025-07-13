@@ -3,6 +3,8 @@
 ## Deloitte Australia Technology Job Simulation on Forage - July 2025
 
  Completed a job simulation involving development and coding
+
+ 
  Wrote a proposal for creating a dashboard
 
 ## Sample workspace of my work in this job simulation
